@@ -25,5 +25,4 @@ streamlit run app.py
 
 A demo dataset is included at `data/customer_churn_demo.csv`. For a formal submission, upload a real public e-commerce/customer-churn dataset through the portal and document its source in your project report.
 
-## Suggested GitHub repository
-`ecommerce-customer-churn-ml`
+[![Live App](https://img.shields.io/badge/🚀_Live_App-Open_Streamlit-red?style=for-the-badge)](https://ecommerce-customer-churn-ml-fk53vtlyqu4yvt7gzpojvr.streamlit.app/)
